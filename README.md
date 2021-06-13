@@ -19,7 +19,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MPL License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -205,7 +205,7 @@ Project Link: [https://github.com/JonTDean/JonathanTomDean](https://github.com/J
 [stars-url]: https://github.com/JonTDean/JonathanTomDean/stargazers
 [issues-shield]: https://img.shields.io/github/issues/JonTDean/JonathanTomDean?label=Issues&style=for-the-badge
 [issues-url]: https://github.com/JonTDean/JonathanTomDean/issues
-[license-shield]: https://img.shields.io/github/license/JonTDean/JonathanTomDean?label=License&style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-MPL%20V2.0-brightgreen?style=for-the-badge
 [license-url]: https://github.com/JonTDean/JonathanTomDean/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black?label=LinkedIn&style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jonathan-dean-ab67aa150/
