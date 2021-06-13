@@ -194,21 +194,21 @@ Project Link: [https://github.com/JonTDean/JonathanTomDean](https://github.com/J
 * [Font Awesome](https://fontawesome.com)
 
 
-
+https://img.shields.io/github/forks/JonTDean/JonathanTomDean?label=Forks&style=flat-square
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JonTDean/JonathanTomDean.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/JonTDean/JonathanTomDean?label=Contributors&style=flat-square
 [contributors-url]: https://github.com/JonTDean/JonathanTomDean/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/JonTDean/JonathanTomDean.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/JonTDean/JonathanTomDean?label=Forks&style=flat-square
 [forks-url]: https://github.com/JonTDean/JonathanTomDean/network/members
-[stars-shield]: https://img.shields.io/github/stars/JonTDean/JonathanTomDean.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/JonTDean/JonathanTomDean?label=Stars&style=flat-square
 [stars-url]: https://github.com/JonTDean/JonathanTomDean/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JonTDean/JonathanTomDean.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/JonTDean/JonathanTomDean?label=Issues&style=flat-square
 [issues-url]: https://github.com/JonTDean/JonathanTomDean/issues
-[license-shield]: https://img.shields.io/github/license/JonTDean/JonathanTomDean.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/JonTDean/JonathanTomDean?label=License&style=flat-square
 [license-url]: https://github.com/JonTDean/JonathanTomDean/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black?label=LinkedIn&style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jonathan-dean-ab67aa150/
 [product-screenshot]: images/screenshot.png
